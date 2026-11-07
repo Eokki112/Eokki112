@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eokki112
-- 👀 I’m interested in dance, musical, animation, healthcare, wellbeing, Public Health, and AI.
-- 🌱 I’m currently learning Psychology & Data Science
-- 💞️ I’m looking to collaborate on cool projects. Some thoughts: Dating app algorithm improvement, Decision accuracy detection, integrated system of health detection.
+- 👀 I’m interested in psychology, dance, musical, animation, healthcare, wellbeing, and AI.
+- 🌱 I graduated with double majors in Psychology & Data Science
+- 💞️ Looking to collaborate on cool projects. 
 - 📫 How to reach me eokki112@outlook.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can finish my 16 oz drinks under 7 minutes.
